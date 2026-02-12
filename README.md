@@ -1,1 +1,7 @@
-# First version
+# Introduction
+This repo contains the code of my project submission for Science & Engineering Fair of Houston 2026 (https://sefhouston.org/).
+
+# About the project
+The COVID - 19 pandemic, caused by the SARS - CoV - 2 virus, began in late 2019 and spread rapidly worldwide, infecting millions of people and causing severe health and economic impacts. Detecting the virus accurately was a major challenge because the most reliable test, RT - PCR, could miss up to 20% of positive cases. This project explores how Artificial Intelligence ( AI ) can improve
+COVID - 19 detection using chest X - ray images. The goal is to build an AI model using Convolutional Neural Networks ( CNNs ) that can identify COVID - 19 with high accuracy. The model will be trained on publicly available, anonymized X - ray images of healthy individuals, COVID - 19 patients, and patients with other lung diseases. After training, the model will be tested for accuracy and fine - tuned if needed. Finally, the AI system will be converted into an app that can predict COVID - 19 from new X - ray images. This project demonstrates how AI can assist in medical diagnosis and reduce human error. If successful, this technology could help doctors make faster decisions, improve patient care, and even be adapted to detect other diseases in the future. By
+combining computer science and healthcare, this project shows how innovation can help prevent future pandemics and save lives.
